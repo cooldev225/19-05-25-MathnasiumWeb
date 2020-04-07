@@ -1,0 +1,42 @@
+so I am thinking what to do? bar code scan by the student when they come in versus Instructor puts time in thru GPP
+
+You have seen that every student has a ID number
+
+they have a bar code for that ID number. When they come in they scan the bar code and it goes to that excel time stamp. I want to keep that bar code system. Because A student scans In and Instructor did not enter into Centroid, then we can compare by making a report who came and who Instructor Neglected and such exception report can be checked by Thomas or me and take action against the employee/Instructor
+
+Thomas and I found that some employee is lazy and they are not entering the student into centroid and this way we can catch them.
+So best thing is that a student scans his/her bar code ID and we automatically write the time into GPP for that student and when the student comes to the Instructor table the time is already entered (instructor can modify the time if he wants)
+
+bar code ID scanner is same as typing the number from a keyboard
+
+Now, if the Instructor is lazy and never opened this student GPP, but the line is recorded into database and report will show a student came time stamp and scan out time stamp by bar code scanner when student goes home
+
+every student scans In then go to the instructor table and also scans out after about 1 hour then go home
+
+So I want to keep the bar code scanner system for automatic in/out time that is now is EXCEL for Alex code to import to radius and we want to scapp Alex code
+
+So, may be an idea that if you may make one BarcodeScanner.exe file or a Browser page with a box open with cursor blinking and waiting to get bar Code ID from the scanner by student. Once that code is received from scanner then it talks to GPP to record..... May be you have a better idea
+
+When the student scans In or Out.. It says "Welcome to Mathnasium session and go to a table to see an Instructor". When student scans out, then a message come below the box says "Have a Nice Day! See you Next time!"
+
+Also if the student scanned in and then scanned in again within 10 mints that means it is wrong and it will not store the second time as duplicate. It checks for I think 5 mints scan in again to ignore
+
+It is a nice feature and really works well but I hate the excel and Alex code writing to radius is a slow process.
+
+So we can do similar things with scanner but then write to GPP and then push to radius without excel
+
+Do you like the steps?
+
+Let me know your suggession as well
+
+Then the centroid report can catch bd / lazy instructors automatic who did not put page numbers / comments  or did not send session report email or home work to parent etc... 
+
+bar code scanner is very simple you know - it is just like a keyboard entering the student number
+
+507176 is student ID number for my daughter as an example. so 507176 scans in or typed  into that box, enters the time into GPP automatic and recorded
+
+A true is  that you are thinking good thing for parents and kids
+
+I will leave now and will chat with you tomorrow for remaining steps with GPP page changes and adding timer into GPP page etc..
+
+I will write down the GPP page change/update functions as asked by Instructors to give them better feature. Then we will find out your development cost for it tomorrow

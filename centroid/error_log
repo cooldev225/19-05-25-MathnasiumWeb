@@ -1,0 +1,12 @@
+[02-Aug-2019 12:36:51 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/arupmath/public_html/centroid/application/views/errors/html/error_php.php on line 18
+[02-Aug-2019 12:36:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/arupmath/public_html/centroid/system/core/Exceptions.php:271) in /home2/arupmath/public_html/centroid/system/core/Common.php on line 564
+[02-Aug-2019 13:32:38 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home2/arupmath/public_html/centroid/application/views/errors/html/error_php.php on line 27
+[02-Aug-2019 13:32:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/arupmath/public_html/centroid/system/core/Exceptions.php:271) in /home2/arupmath/public_html/centroid/system/core/Common.php on line 564
+[08-Aug-2019 13:16:03 UTC] PHP Fatal error:  Cannot redeclare Instructor::getreportdata() in /home2/arupmath/public_html/centroid/application/controllers/Instructor.php on line 442
+[08-Aug-2019 13:16:06 UTC] PHP Fatal error:  Cannot redeclare Instructor::getreportdata() in /home2/arupmath/public_html/centroid/application/controllers/Instructor.php on line 442
+[08-Aug-2019 13:16:07 UTC] PHP Fatal error:  Cannot redeclare Instructor::getreportdata() in /home2/arupmath/public_html/centroid/application/controllers/Instructor.php on line 442
+[08-Aug-2019 13:17:01 UTC] PHP Fatal error:  Cannot redeclare Instructor::getreportdata() in /home2/arupmath/public_html/centroid/application/controllers/Instructor.php on line 442
+[08-Aug-2019 13:17:27 UTC] PHP Fatal error:  Cannot redeclare Instructor::getreportdata() in /home2/arupmath/public_html/centroid/application/controllers/Instructor.php on line 442
+[08-Aug-2019 13:17:30 UTC] PHP Fatal error:  Cannot redeclare Instructor::getreportdata() in /home2/arupmath/public_html/centroid/application/controllers/Instructor.php on line 442
+[08-Aug-2019 13:18:09 UTC] PHP Fatal error:  Cannot redeclare Instructor::getreportdata() in /home2/arupmath/public_html/centroid/application/controllers/Instructor.php on line 442
+[23-Aug-2019 14:56:01 UTC] PHP Fatal error:  Only variables can be passed by reference in /home2/arupmath/public_html/centroid/application/views/administrator/viewuser.php on line 110

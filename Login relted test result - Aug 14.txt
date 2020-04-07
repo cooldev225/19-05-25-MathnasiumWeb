@@ -1,0 +1,16 @@
+forgot password test - I like it, but, New Create Password should show ***** for security- not showing letters (hide with ******). You can put an "EYE" photo to show letters and also another box to "Retype new password"  should be added to make sure person mistyped his aimed new password to make sure typed same twice in two separate boxes. That is standard practice in most places to have retype box and hide ******.
+
+all admin one place for VIEW USERS TAB. All instructor one place based on location access of RD
+
+Page jumps to GPP from almost all pages by changing center
+
+Report Page jumps to first page again while working on example page 3 after resend a report to a parent on 3rd page. So now need to click next and next again to go back to 3rd page as example...
+
+Add name to the email for Location add.
+
+parent login test - did not force the parent to change password but was able to see the report page? Suggest to give them a similar page of forgot password to verify the CODE to enter and create a new password with retype which then confirms the correct owner of the email/parent and verified and so now will be able to see the child's report page.
+
+Parent login report page is very slow like RD report page. Need to put the same change for parent report page also and also <br> for content column
+
+delete user student record - I have not tested yet. I will test at night. I need to drive now
+

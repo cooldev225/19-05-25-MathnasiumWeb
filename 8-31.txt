@@ -1,0 +1,28 @@
+Monthly Progress Report code development and testing:
+
+Step 1. Suggest to add in GPP page to have MC check box when PK last page named as Mastery Check (MC) finished.
+ Instructor will click to check the box. This now has to write the date in Radius LP (Learning Plan) against that PK as completion date that is in GPP
+
+Step 2. Scan MC page as PDF and store in a path Student Name\year\Month\MC1.pdf  or MC2.pdf etc...
+ I am not sure how instructor can select the path to upload the scan PDF from scanner app on phone or tablet or scanner in a PC.
+ But MC scan PDF file to be in the server with proper path and Instructor to be trained how to upload the MC page of a student to the proper path etc..
+ I am not sure if it can be linked with GPP to upload scan - any idea? 
+Since PDF will take lot of space and server rent will go high we need to do 12 month rolling as storage to save the HDD space and not to pay too much for storage. 
+
+Step 3. Fetch the LP with completion date from Radius into Centroid and make a PDF or email format (prefer email format as body of message instead of attachment).
+ then have a "PR Satisfactory Template" as email then attach the MC PDF files from last month in the email and send to all guardians of that student.
+ But make a page to see the batch of students ready to send out PR who has MC pdf. 
+If No MC PDF then they are excluded from batch for sending. 
+Then also it must show and will be able to make a printable report for the kids whose report were not sent out because of no MC PDF so that Instructors can investigate what is he doing  and why no MC finished etc...? 
+
+Step 4. Lastly Instructor / Admin / RD must be able to resend a report if a parent says they did not get it etc... RESEND must be possible for a student. 
+
+Step 5. kids who do not have MC PDF, use different template to send email to parent with LP from Radius.
+ Need to be able to select what template to select for unsatisfactory progress 
+(Example template: Vacation HOLD,  Not enough attendance, Other Issue template)
+
+Step 6. SA control panel must have enable/disable button to use the Monthly PR feature for a particular center location. 
+Each local admin and RD control panel to have radius login user name and password. to access radius by centroid
+
+Above Job NOT to exceed $400.
+

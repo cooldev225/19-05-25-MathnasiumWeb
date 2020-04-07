@@ -1,0 +1,9 @@
+all admin one place for VIEW USERS TAB. All instructor one place based on location access of RD ========> I like it but the Primary location hunting is too difficult. think later....
+
+Report Page jumps to first page again while working on example page 3 after resend a report to a parent on 3rd page. So now need to click next and next again to go back to 3rd page as example...=====> Page jumps to Page 1 after refresh..
+
+parent login test - did not force the parent to change password but was able to see the report page? Suggest to give them a similar page of forgot password to verify the CODE to enter and create a new password with retype which then confirms the correct owner of the email/parent and verified and so now will be able to see the child's report page. This will prevent stealing of another parent email...Parent default password welcome1 then force to get code from email to make a new password similar to forgot password...
+
+Parent login report page is very slow like RD report page. Need to put the same change for parent report page also and also <br> for content column
+
+Delete user concern::: when u delete a user,the user is not actually removed in system only the user's flag (ex,active)is set as 1.and we can add new page(removed or withdrawed user view page)also we can readd from removed user to actived user view page.
